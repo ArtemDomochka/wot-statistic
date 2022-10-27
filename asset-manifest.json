@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wot-statistic/static/css/main.0ce3a455.css",
+    "main.js": "/wot-statistic/static/js/main.2a48312f.js",
+    "static/js/787.d215777d.chunk.js": "/wot-statistic/static/js/787.d215777d.chunk.js",
+    "index.html": "/wot-statistic/index.html",
+    "main.0ce3a455.css.map": "/wot-statistic/static/css/main.0ce3a455.css.map",
+    "main.2a48312f.js.map": "/wot-statistic/static/js/main.2a48312f.js.map",
+    "787.d215777d.chunk.js.map": "/wot-statistic/static/js/787.d215777d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ce3a455.css",
+    "static/js/main.2a48312f.js"
+  ]
+}
